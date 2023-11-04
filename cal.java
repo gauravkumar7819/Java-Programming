@@ -1,7 +1,8 @@
-package javaram;
+import java.util.Arrays;
 
 
-public class ReverseOfNum {
+public class cal {
+	
 	public static String reverseofNumber(int x) {
 		
 		
@@ -27,3 +28,6 @@ public class ReverseOfNum {
 	}
 
 }
+					
+		
+

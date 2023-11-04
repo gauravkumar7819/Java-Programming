@@ -1,3 +1,5 @@
+package javaram;
+
 
 public class EvenArray {
 public static int evenArrayodd(int []input) {

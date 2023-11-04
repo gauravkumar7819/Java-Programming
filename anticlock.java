@@ -1,5 +1,4 @@
 
-
 public class anticlock{
 //	public static void rotate(int[] input) {
 //	
