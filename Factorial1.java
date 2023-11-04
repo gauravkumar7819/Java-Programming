@@ -1,5 +1,5 @@
 
-public class Factorial {
+public class Factorial1 {
 
 	public static int factorialofNumber(int n) {
 		int fact=1;
